@@ -1,6 +1,7 @@
 # cbm-engine [![Build Status](https://travis-ci.org/cbmjs/cbm-engine.svg?branch=master)](https://travis-ci.org/cbmjs/cbm-engine)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcbmjs%2Fcbm-engine.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcbmjs%2Fcbm-engine?ref=badge_shield)
 
 ## Intro
 
@@ -41,3 +42,6 @@ Run tests via the command `npm test`
 ## License
 
 [AGPL-3.0 license](./LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcbmjs%2Fcbm-engine.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcbmjs%2Fcbm-engine?ref=badge_large)
